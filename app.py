@@ -56,7 +56,7 @@ def main():
 
   title_template = """
   <div style="background-color:blue; padding:8px;">
-  <h1 style="color:cyan">NLP Web App</h1>
+  <h1 style="color:cyan">NLP Web App...</h1>
   </div>
   """
 
