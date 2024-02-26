@@ -185,7 +185,7 @@ def main():
 
     st.markdown("""
     ### NLP Web App made with Streamlit
-    #### Adapted by André Pouw
+    #### Adapted by Zelf Studie
     
     for info:
     - [streamlit](https://streamlit.io)
